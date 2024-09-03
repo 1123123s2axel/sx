@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "70219c2ea3c131adb5b3d4c4708fedcb"
+	name: "cherriw#70219c2e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

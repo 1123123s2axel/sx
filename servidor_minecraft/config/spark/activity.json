@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Neithann",
+      "uniqueId": "58e8efd5-2216-36e8-8625-f39e16b35b37"
+    },
+    "time": 1725333835055,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/CSgabIklje"
+    }
+  }
+]

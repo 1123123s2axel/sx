@@ -1,0 +1,16 @@
+{
+	version: 1
+	uuid: "58e8efd5221636e88625f39e16b35b37"
+	name: "Neithann#58e8efd5"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: {
+		58e8efd5221636e88625f39e16b35b37: {
+			pinned_quests: ["0000000000000001"]
+		}
+	}
+}

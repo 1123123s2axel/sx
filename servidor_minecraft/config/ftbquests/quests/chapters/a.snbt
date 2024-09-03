@@ -1,0 +1,33 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "a"
+	group: ""
+	id: "6B68C2AFB199349B"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "4E4318944BA6E8E7"
+		rewards: [{
+			id: "2B657D5AE88BAC2B"
+			item: "minecraft:oak_trapdoor"
+			type: "item"
+		}]
+		tasks: [
+			{
+				id: "3F33CA9E5049AF9E"
+				item: "mowziesmobs:foliaath_spawn_egg"
+				type: "item"
+			}
+			{
+				entity: "minecraft:zombie"
+				id: "68501A53A14DBB20"
+				type: "kill"
+				value: 100L
+			}
+		]
+		x: -3.5d
+		y: -3.0d
+	}]
+	title: "a"
+}
